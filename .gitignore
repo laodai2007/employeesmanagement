@@ -1,0 +1,16 @@
+bin/
+obj/
+packages/
+
+webapi/bin
+webapi/obj
+
+EmployeesPeriodicallyReport/bin
+EmployeesPeriodicallyReport/obj
+
+XUnitTest/bin
+XUnitTest/obj
+
+angularapp/node_modules
+angularapp/bin
+angularapp/obj
